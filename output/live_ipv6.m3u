@@ -409,9 +409,9 @@ http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHAN
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000313/index.m3u8?IASHttpSessionId=$IPV6
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV4欧洲咪咕" tvg-logo="./pic/logosCCTV4欧洲咪咕.png" group-title="🐶┃咪咕频道",CCTV4欧洲咪咕
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000350/index.m3u8?IASHttpSessionId=$IPV6
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV4美洲咪咕" tvg-logo="./pic/logosCCTV4美洲咪咕.png" group-title="🐶┃咪咕频道",CCTV4美洲咪咕
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-4咪咕美洲" tvg-logo="./pic/logosCCTV-4咪咕美洲.png" group-title="🐶┃咪咕频道",CCTV-4咪咕美洲
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000351/index.m3u8?IASHttpSessionId=$IPV6•线路1
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV4美洲咪咕" tvg-logo="./pic/logosCCTV4美洲咪咕.png" group-title="🐶┃咪咕频道",CCTV4美洲咪咕
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-4咪咕美洲" tvg-logo="./pic/logosCCTV-4咪咕美洲.png" group-title="🐶┃咪咕频道",CCTV-4咪咕美洲
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000351/index.m3u8?IASHttpSessionId=$IPV6•线路2
 #EXTINF:-1 tvg-id="1" tvg-name="卡酷少儿" tvg-logo="./pic/logos卡酷少儿.png" group-title="🐟┃少儿频道",卡酷少儿
 http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$IPV6•线路1
